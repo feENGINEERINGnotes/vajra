@@ -1,0 +1,138 @@
+
+html {
+	font-size:62.5%;
+  
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+  padding-left: 35px;
+}.desktop-2-F84 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #dfdfdf;
+}
+.desktop-2-F84 .frame-5-ndn {
+  box-sizing: border-box;
+  padding: 1.2rem 63.35rem 1.2rem 53.15rem;
+  width: 139.3rem;
+  height: 46.7rem;
+  position: absolute;
+  left: 2rem;
+  top: 2.2rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #7d8b89;
+  border-radius: 3rem;
+}
+.desktop-2-F84 .instagram-logo-transparent-1024x987-1-STS {
+  width: 7.7rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 66.5rem;
+  top: 68.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  padding-top: 18px;
+}
+.desktop-2-F84 .vajra-1-kyv {
+  width: 45.5rem;
+  height: 46.7rem;
+  position: absolute;
+  left: 2rem;
+  top: 47.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+#button1 {
+  width: 29.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 60.7rem;
+  top: 60.8rem;
+  font-size: 6.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 20px;
+  border-color: #dfdfdf;
+  background-color: #dfdfdf;
+  font-size: 60px;
+  box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.3);
+}
+
+#button2{
+  width: 39.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 75.8rem;
+  top: 70.8rem;
+  font-size: 6.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 20px;
+  border-color: #dfdfdf;
+  background-color: #dfdfdf;
+  font-size: 60px;
+  box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.3);
+}
+#button3{
+  width: 36rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 93.4rem;
+  top: 80.6rem;
+  font-size: 6.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 20px;
+  border-color: #dfdfdf;
+  background-color: #dfdfdf;
+  font-size: 60px;
+  box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.3);
+}
+.desktop-2-F84 .linkedin-logo-on-transparent-background-png-1-SEU {
+  width: 8.9rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 50.6rem;
+  top: 58rem;
+  padding-top: 25px;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-F84 .r-1-1-MMS {
+  width: 8.5rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 83.5rem;
+  top: 78.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  padding-top: 15px;
+}

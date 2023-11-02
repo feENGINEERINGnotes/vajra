@@ -1,0 +1,239 @@
+
+html {
+  align-self: center;
+}
+/** {
+	margin: 0;
+	padding: 0;
+}
+/*ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}*/
+body {
+  width: 144rem;
+  padding-left: 35px;
+}.desktop-1-MPW {
+  box-sizing: border-box;
+  padding: 0rem 0rem 1.2rem 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #dfdfdf;
+}
+.desktop-1-MPW .sno18-plot-no-5-3-karve-nagar-pune-411052-2hv{
+  
+  padding-top: 19px;
+}
+.desktop-1-MPW .auto-group-kegp-4SL {
+  margin: 0rem 0rem 4.8rem 0.6rem;
+  width: calc(100% - 0.6rem);
+  height: 19.2rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .auto-group-kegp-4SL .collegelogo-removebg-preview-1-rFi {
+  margin-right: 1.5rem;
+  width: 13.5rem;
+  height: 18.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .auto-group-kegp-4SL .frame-4-ZA8 {
+  box-sizing: border-box;
+  padding: 1.1rem 3.45rem 0rem 0rem;
+  width: 126.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .auto-group-kegp-4SL .frame-4-ZA8 .auto-group-eknx-TmJ {
+  margin: 0.8rem 3.3rem 1.2rem 0rem;
+  width: 51.9rem;
+  height: calc(100% - 2rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .auto-group-kegp-4SL .frame-4-ZA8 .auto-group-eknx-TmJ .mmcoe-nYg {
+  width: 51.9rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-MPW .auto-group-kegp-4SL .frame-4-ZA8 .auto-group-eknx-TmJ .sno18-plot-no-5-3-karve-nagar-pune-411052-2hv {
+  width: 49.3rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 10.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-MPW .auto-group-kegp-4SL .frame-4-ZA8 .accredited-with-a-grade-by-naac-recipient-of-best-college-award-2019-by-sppu-accredited-mechanical-electrical-departmentsbynba-h3N {
+  max-width: 68rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-MPW .frame-3-nacca-ufE {
+  margin: 0rem 17.1rem 1.4rem 12.3rem;
+  width: calc(100% - 29.4rem);
+  height: 17.2rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #7d8b89;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .frame-3-nacca-ufE .r-1-EBi {
+  width: 56rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 0;
+  top: -2.7rem;
+}
+.desktop-1-MPW .frame-3-nacca-ufE .r-1-EBi .r-1-ALG {
+  width: 56rem;
+  height: 23.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/r-1-BsE.png');
+}
+.desktop-1-MPW .frame-3-nacca-ufE .r-1-5CL {
+  width: 56rem;
+  height: 23.4rem;
+  position: relative;
+  left: 55.2rem;
+  top: -2.7rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/r-1.png');
+}
+.desktop-1-MPW .frame-3-nacca-ufE .drone-club-aun {
+  width: 82.8rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 10.05rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-MPW .aimvisionproject {
+  margin-right: 1.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .aimvisionproject .aims {
+  margin: 0.2rem 3.6rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 2.7rem 7.55rem 2.7rem 7.65rem;
+  height: 58.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4rem;
+ 
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #7d8b89;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .aimvisionproject .vision {
+  margin-right: 3.3rem;
+  box-sizing: border-box;
+  padding: 2.7rem 6.3rem;
+  height: 58.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #7d8b89;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-MPW .aimvisionproject .projects {
+  box-sizing: border-box;
+  padding: 2.5rem 2.2rem;
+  height: 58.4rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #7d8b89;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+
+
+
+ /* Media query for screens with a maximum width of 768px */
+ /*@media (max-width: 768px) {
+  body {
+      font-size: 14px;
+  }
+}
+
+/* Media query for screens with a minimum width of 1024px */
+@media (min-width: 100px) {
+  body {
+      background-color:#dfdfdf ;
+  }
+}
+
+/* Media query for screens with a width between 768px and 1023px */
+/*@media (min-width: 768px) and (max-width: 1023px) {
+  body {
+      background-color: #000000;
+  }
+}
+
+
+/* You can add more media queries as needed for your specific design. */
