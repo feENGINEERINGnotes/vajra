@@ -1,6 +1,7 @@
 
 html {
 	font-size:62.5%;
+  padding-left: 180px;
   
 }
 * {
@@ -31,11 +32,10 @@ body {
   position: absolute;
   left: 2rem;
   top: 2.2rem;
-  overflow: hidden;
-  text-align: center;
+  
   font-size: 4.8rem;
   font-weight: 900;
-  line-height: 1.2125;
+ 
   color: #000000;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
